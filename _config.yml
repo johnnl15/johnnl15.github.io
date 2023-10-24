@@ -6,3 +6,5 @@ plugins:
 
 title: Johnny's Website
 description: Website about Johnny
+
+show_downloads: false
