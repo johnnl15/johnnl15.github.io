@@ -1,1 +1,1 @@
-# johnnl15.github.io
+theme: minimal
