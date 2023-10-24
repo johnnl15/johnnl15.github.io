@@ -4,7 +4,8 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Johnny's Website
-description: Website about Johnny
+title: Johnny Le
+logo: /assets/Johnny Profile.jpeg
+description: My focus is on metabolism of skin and adipocytes.
 
-show_downloads: false
+show_downloads: true
