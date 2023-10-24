@@ -5,7 +5,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Johnny Le
-logo: /assets/JohnnyProfile.jpeg
+logo: assets/JohnnyProfile.jpeg
 description: My focus is on metabolism of skin and adipocytes.
 
 show_downloads: true
