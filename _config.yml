@@ -4,8 +4,20 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Johnny Le
+title: <p align="center">Johnny Le </p>
+
 logo: assets/JohnnyProfile.jpeg
-description: My focus is on metabolism of skin and adipocytes.
+
+description: 
+<p align="justify">
+I am pursuing a MD/PhD at the University of California, Irvine. 
+
+<br><br>
+I am a graduate student in the laboratory of[Dr. Cholsoon Jang](https://sites.uci.edu/janglab/) studying metabolism of fat and skin. 
+
+<br><br>
+You can see my published works [here](https://scholar.google.com/citations?user=veVhHrkAAAAJ&hl=en&oi=ao)
+<br><br>
+</p>
 
 show_downloads: false
